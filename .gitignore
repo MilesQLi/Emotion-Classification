@@ -1,0 +1,10 @@
+data/
+*.class
+segdata/
+models/
+*.jar
+/train_xy.txt
+/weibo_train_xy.txt
+/features.txt
+/train_xy - 副本.txt
+/weibo_test_xy.txt
